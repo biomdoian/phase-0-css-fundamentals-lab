@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1{
+  text-align: center;
+}
+.centered-nav {
+  text-align: center;
+}
+.centered-nav a{
+padding: 10px;
+background-color: gray;
+}
+.center-figure{
+  text-align: center;
+}
+.center-content{
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+.shrink-caption{
+  font-size: small;
+}
+.section-horizontal{
+  float: left;
+  background-color: red;
+  text-align: center;
+  width: 25%;
+}
